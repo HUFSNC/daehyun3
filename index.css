@@ -1,0 +1,39 @@
+h1{
+    color: red;
+    background-color: pink;
+}
+
+#x{
+    width: 100px;    
+}
+
+#y{
+    width: 100px;
+}
+
+#result{
+    width: 200px;
+}
+
+.calc{
+    height: 200px;
+    background-color: gray;
+    padding-top: 50px;
+    padding-left: 20px;
+
+    /* margin-top: 50px; */
+}
+
+
+input[type="button"]{
+    width: 50px;
+    height: 50px;
+    color: red;
+    background-color: pink;
+}
+
+
+.calc:hover{
+    background-color: pink;
+    height: 400px;
+}
